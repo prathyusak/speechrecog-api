@@ -16,7 +16,5 @@
     "express-fileupload": "^1.2.0",
     "fs": "0.0.1-security",
     "ibm-watson": "^5.7.1",
-    "speaker": "^0.5.2",
-    "wav": "^1.0.2"
   }
 }
